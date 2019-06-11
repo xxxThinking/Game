@@ -14,6 +14,7 @@
 		E20FE61122AFC7EA0081E328 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E20FE60F22AFC7EA0081E328 /* LaunchScreen.storyboard */; };
 		E20FE61C22AFC7EA0081E328 /* GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20FE61B22AFC7EA0081E328 /* GameTests.swift */; };
 		E20FE62722AFC7EB0081E328 /* GameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20FE62622AFC7EB0081E328 /* GameUITests.swift */; };
+		E20FE63722AFE09D0081E328 /* Game_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20FE63622AFE09D0081E328 /* Game_1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E20FE62222AFC7EB0081E328 /* GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E20FE62622AFC7EB0081E328 /* GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameUITests.swift; sourceTree = "<group>"; };
 		E20FE62822AFC7EB0081E328 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E20FE63622AFE09D0081E328 /* Game_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game_1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				E20FE60622AFC7DF0081E328 /* AppDelegate.swift */,
 				E20FE60822AFC7DF0081E328 /* ViewController.swift */,
 				E20FE60A22AFC7DF0081E328 /* Main.storyboard */,
+				E20FE63622AFE09D0081E328 /* Game_1.swift */,
 				E20FE60D22AFC7EA0081E328 /* Assets.xcassets */,
 				E20FE60F22AFC7EA0081E328 /* LaunchScreen.storyboard */,
 				E20FE61222AFC7EA0081E328 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				E20FE60922AFC7DF0081E328 /* ViewController.swift in Sources */,
 				E20FE60722AFC7DF0081E328 /* AppDelegate.swift in Sources */,
+				E20FE63722AFE09D0081E328 /* Game_1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
